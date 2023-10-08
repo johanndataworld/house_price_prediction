@@ -1,2 +1,2 @@
 # house_price_prediction
-Building linear regression modelling for house price datatset using jupyter notebook.
+Building linear regression modelling for house price datatset using jupyter notebook.This project involves predicting house prices using linear regression. The dataset used for this project has been obtained from an open source. It includes information such as household income and various amenities, which are used to estimate the house's price. Real estate professionals utilize this information, including the house's address, to inform potential buyers or renters about the property.
